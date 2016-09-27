@@ -3,7 +3,7 @@
 #### By Meaghan Jones & Rony Nasr, June 27th, 2016
 
 ## Description
-A Ruby app that takes a number from the user and returns a list of numbers and strings that corresponds to the Ping-Pong solution (i.e., 7.pingpong() returns [1, 2, "ping", 4, "pong", "ping", 7]).
+A Ruby app that takes a number from the user and returns a list of numbers and strings that corresponds to the Ping-Pong solution.
 
 ## Specs
 1)It can count up to the provided number.
